@@ -29,15 +29,15 @@ This project is an academic group project for **IT2002 Database Technology and M
 - Video Presentation demonstrating the application's features and justifying design choices.
 
 ## Repository Structure
-### 1. **ApasajaClean.sql** : SQL script for cleaning the database
-### 2. **ApasajaSchema.sql** : SQL script for creating the database schema
-### 3. **Container Terminal Operation.pdf** : Documentation or project report
-### 4. **documentation/** : Folder for additional documentation
-### 5. **populate/** : Folder for scripts or data used to populate the database
-### 6. **queries/** : Folder containing SQL queries for workload and testing
+1. **ApasajaClean.sql** : SQL script for cleaning the database
+2. **ApasajaSchema.sql** : SQL script for creating the database schema
+3. **Container Terminal Operation.pdf** : Documentation or project report
+4. **documentation/** : Folder for additional documentation
+5. **populate/** : Folder for scripts or data used to populate the database
+6. **queries/** : Folder containing SQL queries for workload and testing
 
-##Getting Started
-### 1. Clone the repository.
-### 2. Set up the database by running **ApasajaSchema.sql**, then populate it using the files in the **populate** folder.
-### 3. Run the queries in the **/queries** folder to test the database.
-### 4. The database is now ready to operate and can be used to simulate container terminal operations.
+## Getting Started
+1. Clone the repository.
+2. Set up the database by running **ApasajaSchema.sql**, then populate it using the files in the **populate** folder.
+3. Run the queries in the **/queries** folder to test the database.
+4. The database is now ready to operate and can be used to simulate container terminal operations.
