@@ -1,4 +1,4 @@
-# Collaborative_Filtering_Analysis_and_Implementation_
+# Collaborative Filtering Analysis and Implementation
 
 ## Project Overview
 
