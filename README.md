@@ -1,7 +1,6 @@
 # Data Science Projects 📂 
 
-This repository contains my academic and personal data science projects.  
-It's a space for practical applications and learning.
+This repository contains my academic and personal data science projects. It's a space for practical applications and learning.
 
 Feel free to explore and reach out with any questions or suggestions. 🚀
 
