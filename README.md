@@ -1,10 +1,13 @@
-# Data Science Project Repository 📂
+# Data Science Projects 📂 
 
-Welcome to my Data Science Project Repository! 
+This repository contains my academic and personal data science projects.  
+It's a space for practical applications and learning.
 
-This repository is where I store my academic projects and personal practice exercises within the field of data science. It's a dedicated space for practical 
-applications and experimentation, allowing me to apply and expand my data science knowledge.
+Feel free to explore and reach out with any questions or suggestions. 🚀
 
-Feel free to explore the projects in this repository and if you have any questions, suggestions, or just want to connect, feel free to reach out. 🚀
+---
 
-Thank you for visiting!
+## Projects
+
+1. [🏠 HDB Price Prediction](https://github.com/Faldho23/hdb-price-prediction)  
+   - Analyzed 10 years of HDB resale flat prices in Singapore
