@@ -4,8 +4,6 @@ This repository contains my academic and personal data science projects. It's a 
 
 Feel free to explore and reach out with any questions or suggestions. 🚀
 
----
-
 ## Projects
 
 1. [🏠 HDB Price Prediction](https://github.com/Faldho23/hdb-price-prediction)  
